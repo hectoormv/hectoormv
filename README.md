@@ -1,6 +1,6 @@
 # Hola, soy Héctor 👋
 
-### Estudiante de ASIR · Ondara/Dénia, ES 🇪🇸
+### Estudiante de ASIR, ES 🇪🇸
 
 [Portfolio](https://hvalles.com) · [Contacto](https://hvalles.com/contacto)
 
