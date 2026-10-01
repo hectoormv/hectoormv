@@ -1,4 +1,3 @@
-# Hola, soy Héctor 👋
 
 ### Estudiante de ASIR, ES 🇪🇸
 
