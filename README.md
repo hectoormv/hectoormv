@@ -1,29 +1,32 @@
-h1>Hola, soy Héctor 👋</h1>
-Estudiante de ASIR · Ondara/Dénia, ES 🇪🇸
+# Hola, soy Héctor 👋
 
-Monto, rompo y aseguro mi propio homelab — camino a la ciberseguridad 🔐
+### Estudiante de ASIR · Ondara/Dénia, ES 🇪🇸
 
-Portfolio · Contacto
+[Portfolio](https://hvalles.com) · [Contacto](https://hvalles.com/contacto)
 
-Stack
-<p align="left"> <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,docker,cloudflare,githubactions,git&perline=7" /> </p> <p align="left"> <img src="https://skillicons.dev/icons?i=java,spring,mysql,ts,react,tailwind,vite&perline=7" /> </p>
+---
 
-También: WireGuard · Pi-hole · Caddy · Frigate NVR · Three.js · Neovim · UML
+## Stack
 
-Homelab
+<a href="https://www.java.com" title="Java"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a> <a href="https://spring.io" title="Spring"><img src="https://skillicons.dev/icons?i=spring" alt="Spring" /></a> <a href="https://www.docker.com" title="Docker"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a> <a href="https://www.kernel.org" title="Linux"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a> <a href="https://ubuntu.com" title="Ubuntu"><img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" /></a> <a href="https://www.gnu.org/software/bash/" title="Bash"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" /></a> <a href="https://www.mysql.com" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a> <a href="https://www.typescriptlang.org" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a> <a href="https://react.dev" title="React"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a> <a href="https://git-scm.com" title="Git"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a> <a href="https://www.cloudflare.com" title="Cloudflare"><img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" /></a>
 
-Servidor casero con Ubuntu Server, solo SSH y todo en Docker. Mínima superficie expuesta: un único puerto UDP para la VPN y el resto detrás de Cloudflare.
+También: WireGuard · Pi-hole · Caddy · Frigate NVR · Tailwind · Vite · Three.js · Neovim
 
-Servicio	Qué hace
-Pi-hole	DNS propio y bloqueo de anuncios/rastreadores en toda la red
-WireGuard	VPN para entrar a casa de forma segura
-Cloudflare Tunnel	Publicar servicios sin abrir puertos en el router
-Caddy	Servidor web y reverse proxy
-Frigate NVR	Videovigilancia con cámaras IP y detección de objetos
-GitHub Actions	Runner self-hosted para desplegar mi portfolio
-Proyectos
-Proyecto	Qué es
-hvalles.com	Mi portfolio en React + TypeScript + Three.js, autoalojado con CI/CD
-GoogleBar	Skin de Rainmeter con barra de Google estilo Android (negra y blanca)
-Campus Virtual Chabàs	App web Spring Boot + Vaadin para gestionar servicios de un instituto
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hectoormv/hectoormv/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hectoormv/hectoormv/output/github-snake.svg" /> <img alt="snake de contribuciones" src="https://raw.githubusercontent.com/hectoormv/hectoormv/output/github-snake.svg" /> </picture>
+---
+
+## Proyectos
+
+| Proyecto | Qué es |
+| --- | --- |
+| [hvalles.com](https://hvalles.com) | Mi portfolio en React + TypeScript + Three.js, autoalojado en mi homelab con CI/CD |
+| [GoogleBar](https://github.com/hectoormv/GoogleBar) | Skin de Rainmeter con barra de Google estilo Android |
+| Homelab | Servidor casero con Docker: Pi-hole, WireGuard, Cloudflare Tunnel, Caddy y Frigate NVR |
+| Campus Virtual Chabàs | App web Spring Boot + Vaadin para gestionar servicios de un instituto |
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hectoormv/hectoormv/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hectoormv/hectoormv/output/github-snake.svg" />
+  <img alt="Serpiente comiéndose mi gráfico de contribuciones" src="https://raw.githubusercontent.com/hectoormv/hectoormv/output/github-snake.svg" />
+</picture>
