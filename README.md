@@ -16,12 +16,18 @@ También: WireGuard · Pi-hole · Caddy · Frigate NVR · Tailwind · Vite · Th
 
 ## Proyectos
 
-| Proyecto | Qué es |
-| --- | --- |
-| [hvalles.com](https://hvalles.com) | Mi portfolio en React + TypeScript + Three.js, autoalojado en mi homelab con CI/CD |
-| [GoogleBar](https://github.com/hectoormv/GoogleBar) | Skin de Rainmeter con barra de Google estilo Android |
-| Homelab | Servidor casero con Docker: Pi-hole, WireGuard, Cloudflare Tunnel, Caddy y Frigate NVR |
-| Campus Virtual Chabàs | App web Spring Boot + Vaadin para gestionar servicios de un instituto |
+| Proyecto | Qué es | Stack |
+| --- | --- | --- |
+| [hvalles.com](https://hvalles.com) | Mi portfolio, autoalojado en mi homelab con CI/CD | React · TypeScript · Three.js · Tailwind |
+| [GoogleBar](https://github.com/hectoormv/GoogleBar) | Skin de Rainmeter con barra de Google estilo Android | Rainmeter |
+| Homelab | Servidor casero con servicios autoalojados | Docker · Pi-hole · WireGuard · Cloudflare · Caddy · Frigate |
+| Campus Virtual Chabàs | App web para gestionar servicios de un instituto | Java · Spring Boot · Vaadin · SQL |
+
+---
+
+## GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=hectoormv&show_icons=true&include_all_commits=true&locale=es&title_color=f59e0b&icon_color=f59e0b&text_color=8b949e&ring_color=f59e0b&bg_color=00000000&hide_border=true" alt="Estadísticas de GitHub de hectoormv" height="170" /> <img src="https://streak-stats.demolab.com?user=hectoormv&locale=es&hide_border=true&background=00000000&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b&sideLabels=f59e0b&currStreakNum=8b949e&sideNums=8b949e&dates=8b949e&stroke=8b949e" alt="Racha de contribuciones de hectoormv" height="170" />
 
 ---
 
