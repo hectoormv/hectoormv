@@ -18,7 +18,8 @@ También: WireGuard · Pi-hole · Caddy · Frigate NVR · Tailwind · Vite · Th
 | --- | --- | --- |
 | [hvalles.com](https://hvalles.com) | Mi portfolio, autoalojado en mi homelab con CI/CD | React · TypeScript · Three.js · Tailwind |
 | [GoogleBar](https://github.com/hectoormv/GoogleBar) | Skin de Rainmeter con barra de Google estilo Android | Rainmeter |
-| [TouchPad](https://github.com/hectoormv/touchpad) | Usa el móvil como trackpad y mando de presentaciones para Windows y Mac | Python · WebSocket · pywebview · PyObjC · PyInstaller · GitHub Actions || Homelab | Servidor casero con servicios autoalojados | Docker · Pi-hole · WireGuard · Cloudflare · Caddy · Frigate |
+| [TouchPad](https://github.com/hectoormv/touchpad) | Usa el móvil como trackpad y mando de presentaciones para Windows y Mac | Python · WebSocket · pywebview · PyObjC · PyInstaller · GitHub Actions |
+| Homelab | Servidor casero con servicios autoalojados | Docker · Pi-hole · WireGuard · Cloudflare · Caddy · Frigate |
 
 ---
 
